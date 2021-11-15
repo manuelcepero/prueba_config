@@ -1,14 +1,5 @@
 server:
   port: 8081
-  
-spring:
-  profiles: dev
-
-some:
-  value: valor del perfil dev
-
-spring:
-  profiles: prod
 
 some:
   value: valor del perfil prod
